@@ -2,7 +2,7 @@
 #include<cstdio>
 //#include<clists>
 #include<algorithm>
-
+//Simple array sum
 using namespace std;
 
 int main()
